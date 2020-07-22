@@ -1,4 +1,4 @@
-# :hand: Welcome to Minukang github
+# :hand: Welcome to MinuKang github
 
 ## :office: Career
 

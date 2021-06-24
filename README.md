@@ -13,7 +13,6 @@
 
 ## :memo: Articles
 
-- [문서 간에 통신하기 (X-Document-Messaging)](https://minuukang.github.io/2017/11/29/x-document-messaging/)
 - [About React Hook](https://medium.com/vingle-tech-blog/react-hook-ec3f25c2d8fa)
 - [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
 - [육군훈련소 실시간 검색어 뉴스 전송 봇 개발후기](https://minukang.medium.com/%EC%9C%A1%EA%B5%B0%ED%9B%88%EB%A0%A8%EC%86%8C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EA%B2%80%EC%83%89%EC%96%B4-%EB%89%B4%EC%8A%A4-%EC%A0%84%EC%86%A1-%EB%B4%87-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-f0c178a4e4dc)

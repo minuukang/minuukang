@@ -2,14 +2,14 @@
 
 ## :office: Career
 
-- [디앤디랩](https://www.dnd-lab.com/index) 웹 개발자 + 산업기능요원 (2015. 06 ~ 2018. 11)
-- [Vingle](https://www.vingle.net/) 웹 프론트엔드 개발자 (2018. 12 ~ 2020. 02)
 - [Weverse Company](https://benx.co/) 웹 프론트엔드 개발자 (2020. 03 ~ 현재)
+- [Vingle](https://www.vingle.net/) 웹 프론트엔드 개발자 (2018. 12 ~ 2020. 02)
+- [디앤디랩](https://www.dnd-lab.com/index) 웹 개발자 + 산업기능요원 (2015. 06 ~ 2018. 11)
 
 ## :school: Academic background
 
-- [세명컴퓨터고등학교](http://smc.sen.hs.kr/index.do) 멀티미디어콘텐츠과 졸업 (2014. 02)
 - [숭실대학교](https://ssu.ac.kr/) 미디어경영학과 재학중 (2018. 03 ~)
+- [세명컴퓨터고등학교](http://smc.sen.hs.kr/index.do) 멀티미디어콘텐츠과 졸업 (2014. 02)
 
 ## :memo: Articles
 

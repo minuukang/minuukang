@@ -17,6 +17,7 @@
 - [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
 - [육군훈련소 실시간 검색어 뉴스 전송 봇 개발후기](https://minukang.medium.com/%EC%9C%A1%EA%B5%B0%ED%9B%88%EB%A0%A8%EC%86%8C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EA%B2%80%EC%83%89%EC%96%B4-%EB%89%B4%EC%8A%A4-%EC%A0%84%EC%86%A1-%EB%B4%87-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-f0c178a4e4dc)
 - [React의 렌더링 퍼포먼스 개선기 (부제: 수백개의 아이템을 가진 리스트를 개선하기)](https://medium.com/p/8403a6c47b1c)
+- [URI 직렬화로 알아보는 문자열 타입 추론하기 (부제: 타입스크립트 실전 7가지 기술)](https://medium.com/benx-tech-blog/uri-%EC%A7%81%EB%A0%AC%ED%99%94%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%83%80%EC%9E%85-%EC%B6%94%EB%A1%A0%ED%95%98%EA%B8%B0-%EB%B6%80%EC%A0%9C-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%A4%EC%A0%84-7%EA%B0%80%EC%A7%80-%EA%B8%B0%EC%88%A0-3613e0dd1619)
 
 ## :wrench: Technology Stack
 

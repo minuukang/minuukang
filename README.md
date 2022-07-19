@@ -2,7 +2,7 @@
 
 ## :office: Career
 
-- [Weverse Company](https://benx.co/) 웹 프론트엔드 개발자 (2020. 03 ~ 현재)
+- [Weverse Company](https://benx.co/) 웹 프론트엔드, Nodejs 개발자 (2020. 03 ~ 2022. 07)
 - [Vingle](https://www.vingle.net/) 웹 프론트엔드 개발자 (2018. 12 ~ 2020. 02)
 - [디앤디랩](https://www.dnd-lab.com/index) 웹 개발자 + 산업기능요원 (2015. 06 ~ 2018. 11)
 

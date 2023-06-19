@@ -9,6 +9,7 @@
 
 ## :office: Career
 
+- [비바리퍼블리카](https://toss.im/) 웹 프론트엔드 개발자 (2023. 05 ~ )
 - [그린랩스](https://greenlabs.co.kr/) 웹 프론트엔드 개발자 (2022. 08 ~ 2023. 04)
 - [Weverse Company](https://benx.co/) 웹 프론트엔드, Nodejs 개발자 (2020. 03 ~ 2022. 07)
 - [Vingle](https://www.vingle.net/) 웹 프론트엔드 개발자 (2018. 12 ~ 2020. 02)
